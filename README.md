@@ -34,7 +34,7 @@ pip install opencv-python
 4️⃣ Run the script: python main.py
 
 ## 🖼️ Application Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot](Pencil-Sketch-Python/screenshot.png)
 
 ## 🤝 Contribution
 Feel free to fork, enhance and reuse this project!
